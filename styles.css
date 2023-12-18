@@ -1,0 +1,21 @@
+* {
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+}
+
+​ body {
+    background: rgb(245, 245, 245);
+    color: #333333;
+    margin-top: 20px;
+}
+
+​ .container {
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+}
+
+​ ul {
+    margin: 0;
+    padding: 0;
+}
